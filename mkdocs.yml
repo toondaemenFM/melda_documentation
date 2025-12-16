@@ -1,0 +1,13 @@
+site_name: Melda Documentation
+theme:
+  name: readthedocs
+  logo: img/melda_black.png
+
+markdown_extensions:
+  - admonition
+
+nav:
+  - Welkom: index.md
+  - Voor de Melda-periode: 01_voor/voor.md
+  - Tijdens de Melda-periode: 02_tijdens/tijdens.md
+  - Na de Melda-periode: 03_na/na.md
