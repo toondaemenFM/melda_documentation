@@ -1,4 +1,6 @@
 site_name: Melda Documentation
+site_url: https://toondaemenfm.github.io/melda_documentation/
+
 theme:
   name: readthedocs
   logo: img/melda_black.png
